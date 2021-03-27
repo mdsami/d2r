@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019822274834",
+    "firebase_url": "https://bikebazar-75d32.firebaseio.com",
+    "project_id": "bikebazar-75d32",
+    "storage_bucket": "bikebazar-75d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019822274834:android:ccd0336cadcba7ca7c5bcb",
+        "android_client_info": {
+          "package_name": "com.example.bkbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019822274834-geceuip3bqtu75nuhce43sns8pjdfjep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjELqSWQ6_DBnOfPzZrk0RmFOB0_vbe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019822274834-geceuip3bqtu75nuhce43sns8pjdfjep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
